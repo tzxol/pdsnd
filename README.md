@@ -15,13 +15,16 @@
 
 ## Introduction
 
-This project is a Python-based analysis tool that provides insights into bikeshare data for different cities. It allows users to explore bike rental patterns, common stations, trip durations, user demographics, and more. The script takes user input to filter data by city, month, and day of the week and then displays relevant statistics.
+This project is a Python-based analysis tool that provides insights into bike share data for different cities. 
+It allows users to explore bike rental patterns, common stations, trip durations, user demographics, and more. The 
+script takes user input to filter data by city, month, and day of the week and then displays relevant statistics.
 
 ## Project Overview
 
 - The project aims to analyze bike share data for three major U.S. cities: Chicago, New York City, and Washington.
 - Users can specify the city, month, and day of the week to apply filters to the data analysis.
-- The script provides statistics on various aspects of bikeshare usage, including time trends, station popularity, trip duration, and user demographics.
+- The script provides statistics on various aspects of bike share usage, including time trends, station popularity, 
+trip duration, and user demographics.
 
 ## Getting Started
 
