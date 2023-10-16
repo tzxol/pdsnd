@@ -1,6 +1,6 @@
 # Bikeshare Data Analysis Project
 
-![Bike Ride](https://example.com/your-image.png)
+![Bike Ride](/bikeshare.jpg)
 
 ## Table of Contents
 
@@ -53,7 +53,7 @@ cd bikeshare-analysis
 python bikeshare.py
 ```
 
-4. Follow the on-screen instructions to filter and analyze the bikeshare data.
+4. Follow the on-screen instructions to filter and analyze the bike share data.
 
 ### Features
 
@@ -65,11 +65,11 @@ python bikeshare.py
 
 ## Data Sources
 
-The project uses bikeshare data from the following sources:
+The project uses bike share data from the following sources:
 
-- Chicago: [City of Chicago Bike-share Data](https://www.example.com/chicago-bikeshare-data)
-- New York City: [NYC Open Data Bike-share Data](https://www.example.com/nyc-bikeshare-data)
-- Washington: [Washington, D.C. Capital Bike-share Data](https://www.example.com/washington-bikeshare-data)
+- Chicago: [City of Chicago Bike-share Data](https://raw.githubusercontent.com/tzxol/pdsnd/documentation/chicago.csv)
+- New York City: [NYC Open Data Bike-share Data](https://raw.githubusercontent.com/tzxol/pdsnd/documentation/new_york_city.csv)
+- Washington: [Washington, D.C. Capital Bike-share Data](https://raw.githubusercontent.com/tzxol/pdsnd/documentation/washington.csv)
 
 ## Author
 
